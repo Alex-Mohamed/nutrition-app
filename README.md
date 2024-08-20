@@ -9,6 +9,6 @@ This app uses the Dart programming language and the Flutter software development
 # Using the Nutrition App
 Users can interact with the nutrition app by clicking on the home page button/image of the food they want to learn more about. After being navigated to the food's page, users can use a dropdown selection to choose what they specifically want to learn about. As shown below, a user can click on the home page button to learn about oranges, and then they can select the dropdown selection for "Health Benefits" to find information on the health benefits of oranges. Users can also use the like and dislike buttons on the home page to rate the app, and the count for how many times each button was pressed is displayed at the bottom of the home page in real time.
 
-<img width="794" alt="Screenshot 2024-08-20 at 10 07 36 AM" src="https://github.com/user-attachments/assets/7ae1e2e7-4611-4563-b15b-424f92de0df0">
+<img width="937" alt="Screenshot 2024-08-20 at 10 07 36 AM" src="https://github.com/user-attachments/assets/7ae1e2e7-4611-4563-b15b-424f92de0df0">
 
-<img width="929" alt="Screenshot 2024-08-20 at 10 09 09 AM" src="https://github.com/user-attachments/assets/112d2421-a89d-4cdb-a8e3-5e373d8afdfb">
+<img width="937" alt="Screenshot 2024-08-20 at 10 09 09 AM" src="https://github.com/user-attachments/assets/112d2421-a89d-4cdb-a8e3-5e373d8afdfb">
